@@ -1,4 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&family=Righteous&display=swap');
+@import url('header.css');
+@import url('home.css');
+@import url('menu.css');
+@import url('testimonials.css');
+@import url('footer.css');
 
 :root {
     --color-primary-1: #fff9ea;
